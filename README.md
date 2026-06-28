@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tausend-rote-rosen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tausend rote Rosen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tausend-rote-rosen/) |
+| **Get License** | [Commercial Licensing for Tausend rote Rosen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tausend-rote-rosen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tausend rote Rosen auf dem Beifahrersitz
+> Die Stadt leuchtet Neon, wenn dein Blick mich trifft
+> Baby, steig ein, lass uns fliehen in die Nacht
+> Du bist das Feuer, das mich um den Verstand gebracht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
